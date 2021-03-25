@@ -2,6 +2,6 @@ export class Player {
   lives: number;
 
   constructor() {
-    this.lives = 333;
+    this.lives = 3;
   }
 }
